@@ -1,0 +1,37 @@
+[{
+  "id": 1,
+  "name": "Dante-Demon Hunter",
+  "categories_id": 1,
+  "description": "Son of Sparda",
+  "image": "https://res-console.cloudinary.com/lvp/thumbnails/v1/image/upload/v1707482239/YjFiMmNiMWZhNDNjNzllNTJhODZlNTFjNDQ4YWMwNGVfZjE2cG11/grid_landscape"
+}, {
+  "id": 2,
+  "name": "Dante-One Man Show",
+  "categories_id": 1,
+  "description": "Son of Sparda",
+  "image": "https://res-console.cloudinary.com/lvp/thumbnails/v1/image/upload/v1707482239/YjFiMmNiMWZhNDNjNzllNTJhODZlNTFjNDQ4YWMwNGVfZjE2cG11/grid_landscape"
+}, {
+  "id": 3,
+  "name": "Vergil-Count Thunder",
+  "categories_id": 2,
+  "description": "Son of Sparda",
+  "image": "https://res-console.cloudinary.com/lvp/thumbnails/v1/image/upload/v1707482254/aW0tdGhlLW9ubHktb25lLXdoby10aGluay12ZXJnaWwtbG9va3MteW91bmdlci10aGFuLWhpcy12MC1vNzM1cTB5aWZta2IxX3J1MHFtNQ==/grid_landscape"
+} ,{
+  "id": 4,
+  "name": "V-Eternal Nightmare",
+  "categories_id": 4,
+  "description": "Son of Sparda",
+  "image": "https://res-console.cloudinary.com/lvp/thumbnails/v1/image/upload/v1707482294/NTJlYzU5ZTdhOTdjNzY1ZjI1ZTFhODhkMGMxNGI2MDlfdGZnM2J1/grid_landscape"
+}, {
+  "id": 5,
+  "name": "Nero-Devil Bringer",
+  "categories_id": 3,
+  "description": "Son of Vergil of Sparda",
+  "image": "https://res-console.cloudinary.com/lvp/thumbnails/v1/image/upload/v1707482272/ZG1jNS1uZXJvLWZhY2VfeGJ3c3E3/grid_landscape"
+}, {
+  "id": 6,
+  "name": "Nero-Knight of the Order",
+  "categories_id": 3,
+  "description": "Son of Vergil of Sparda",
+  "image": "https://res-console.cloudinary.com/lvp/thumbnails/v1/image/upload/v1707482272/ZG1jNS1uZXJvLWZhY2VfeGJ3c3E3/grid_landscape"
+}]
